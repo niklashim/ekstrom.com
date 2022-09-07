@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://c5fd9919.ekstrom-com.pages.dev/</loc>
     <lastmod>2022-09-07T22:56:31+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://c5fd9919.ekstrom-com.pages.dev/post/</loc>
     <lastmod>2022-09-07T22:56:31+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/some-activity/</loc>
+    <loc>https://c5fd9919.ekstrom-com.pages.dev/post/some-activity/</loc>
     <lastmod>2022-09-07T22:56:31+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://c5fd9919.ekstrom-com.pages.dev/posts/my-first-post/</loc>
     <lastmod>2022-09-07T22:25:45+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://c5fd9919.ekstrom-com.pages.dev/posts/</loc>
     <lastmod>2022-09-07T22:25:45+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://c5fd9919.ekstrom-com.pages.dev/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://c5fd9919.ekstrom-com.pages.dev/tags/</loc>
   </url>
 </urlset>
