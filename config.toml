@@ -1,4 +1,4 @@
-baseURL = 'https://c5fd9919.ekstrom-com.pages.dev/'
+baseURL = 'ekstrom-com.pages.dev'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-theme-shell"
