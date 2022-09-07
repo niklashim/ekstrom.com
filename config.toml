@@ -81,7 +81,7 @@ Super great to meet you!
   files = [ 
     ["Devops engineer at catena media", "https://catenamedia.com//"],
     ["Python", "https://www.example.com/"],
-    ["Docker", "/post/some-activity2.md"],
+    ["Docker", "https://mysite.ekstrom.nu/post/some-activity2.md"],
   ]
 
 [module]
