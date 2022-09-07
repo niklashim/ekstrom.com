@@ -81,6 +81,7 @@ Super great to meet you!
   files = [ 
     ["Devops engineer at catena media", "https://catenamedia.com//"],
     ["Python", "https://www.example.com/"],
+    ["images", "https://ekstrom.nu"],
     ["Docker", "https://mysite.ekstrom.nu/post/some-activity2.md"],
   ]
 
