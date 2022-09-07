@@ -64,9 +64,10 @@ ignoreErrors = ["error-remote-getjson"]
 
   description = """
   Hi! My name is Niklas Ekström
- Super great to meet you!
+Super great to meet you!
   
-  If you would like to know more about me feel free to reach out to me at emails@email.com
+  If you would like to know more about me 
+  Feel free to reach out to me at emails@email.com
   """
 
   # Note: If you want to use a Markdown file, you can use the following
