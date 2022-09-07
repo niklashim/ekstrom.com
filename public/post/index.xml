@@ -2,16 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Shell</title>
-    <link>ekstrom-com.pages.dev/post/</link>
+    <link>mysite.ekstrom.nu/post/</link>
     <description>Recent content in Posts on Shell</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 Sep 2022 22:56:31 +0200</lastBuildDate><atom:link href="ekstrom-com.pages.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Sep 2022 23:04:07 +0200</lastBuildDate><atom:link href="mysite.ekstrom.nu/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some Activity2</title>
+      <link>mysite.ekstrom.nu/post/some-activity2/</link>
+      <pubDate>Wed, 07 Sep 2022 23:04:07 +0200</pubDate>
+      
+      <guid>mysite.ekstrom.nu/post/some-activity2/</guid>
+      <description>wayo</description>
+    </item>
+    
     <item>
       <title>Some Activity</title>
-      <link>ekstrom-com.pages.dev/post/some-activity/</link>
+      <link>mysite.ekstrom.nu/post/some-activity/</link>
       <pubDate>Wed, 07 Sep 2022 22:56:31 +0200</pubDate>
       
-      <guid>ekstrom-com.pages.dev/post/some-activity/</guid>
+      <guid>mysite.ekstrom.nu/post/some-activity/</guid>
       <description>test post</description>
     </item>
     

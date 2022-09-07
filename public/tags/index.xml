@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shell</title>
-    <link>ekstrom-com.pages.dev/tags/</link>
+    <link>mysite.ekstrom.nu/tags/</link>
     <description>Recent content in Tags on Shell</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="ekstrom-com.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="mysite.ekstrom.nu/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

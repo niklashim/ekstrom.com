@@ -1,4 +1,4 @@
-baseURL = "ekstrom-com.pages.dev"
+baseURL = "mysite.ekstrom.nu"
 title = "Shell"
 # author = "Yukuro"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
@@ -81,7 +81,7 @@ Super great to meet you!
   files = [ 
     ["Devops engineer at catena media", "https://catenamedia.com//"],
     ["Python", "https://www.example.com/"],
-    ["Docker", "/post/some-activity.md"],
+    ["Docker", "/post/some-activity2.md"],
   ]
 
 [module]

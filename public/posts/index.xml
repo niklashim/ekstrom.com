@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Shell</title>
-    <link>ekstrom-com.pages.dev/posts/</link>
+    <link>mysite.ekstrom.nu/posts/</link>
     <description>Recent content in Posts on Shell</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 Sep 2022 22:25:45 +0200</lastBuildDate><atom:link href="ekstrom-com.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Sep 2022 22:25:45 +0200</lastBuildDate><atom:link href="mysite.ekstrom.nu/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>ekstrom-com.pages.dev/posts/my-first-post/</link>
+      <link>mysite.ekstrom.nu/posts/my-first-post/</link>
       <pubDate>Wed, 07 Sep 2022 22:25:45 +0200</pubDate>
       
-      <guid>ekstrom-com.pages.dev/posts/my-first-post/</guid>
+      <guid>mysite.ekstrom.nu/posts/my-first-post/</guid>
       <description></description>
     </item>
     

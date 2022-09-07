@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>ekstrom-com.pages.dev/post/</loc>
+    <loc>mysite.ekstrom.nu/post/</loc>
+    <lastmod>2022-09-07T23:04:07+02:00</lastmod>
+  </url><url>
+    <loc>mysite.ekstrom.nu/</loc>
+    <lastmod>2022-09-07T23:04:07+02:00</lastmod>
+  </url><url>
+    <loc>mysite.ekstrom.nu/post/some-activity2/</loc>
+    <lastmod>2022-09-07T23:04:07+02:00</lastmod>
+  </url><url>
+    <loc>mysite.ekstrom.nu/post/some-activity/</loc>
     <lastmod>2022-09-07T22:56:31+02:00</lastmod>
   </url><url>
-    <loc>ekstrom-com.pages.dev/</loc>
-    <lastmod>2022-09-07T22:56:31+02:00</lastmod>
-  </url><url>
-    <loc>ekstrom-com.pages.dev/post/some-activity/</loc>
-    <lastmod>2022-09-07T22:56:31+02:00</lastmod>
-  </url><url>
-    <loc>ekstrom-com.pages.dev/posts/my-first-post/</loc>
+    <loc>mysite.ekstrom.nu/posts/my-first-post/</loc>
     <lastmod>2022-09-07T22:25:45+02:00</lastmod>
   </url><url>
-    <loc>ekstrom-com.pages.dev/posts/</loc>
+    <loc>mysite.ekstrom.nu/posts/</loc>
     <lastmod>2022-09-07T22:25:45+02:00</lastmod>
   </url><url>
-    <loc>ekstrom-com.pages.dev/categories/</loc>
+    <loc>mysite.ekstrom.nu/categories/</loc>
   </url><url>
-    <loc>ekstrom-com.pages.dev/tags/</loc>
+    <loc>mysite.ekstrom.nu/tags/</loc>
   </url>
 </urlset>
