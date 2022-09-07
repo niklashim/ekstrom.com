@@ -66,6 +66,7 @@ ignoreErrors = ["error-remote-getjson"]
   Hi! My name is Niklas Ekström
  Super great to meet you!
   
+  If you would like to know more about me feel free to reach out to me at emails@email.com
   """
 
   # Note: If you want to use a Markdown file, you can use the following
@@ -79,32 +80,6 @@ ignoreErrors = ["error-remote-getjson"]
   files = [ 
     ["Devops engineer at catena media", "https://catenamedia.com//"],
     ["Python", "https://www.example.com/"],
-    ["I love Jeko!", "https://golang.org/"],
-    ["I love Jeko!", "https://golang.org/"],   
-        ["I love Jeko!", "https://golang.org/"],
-    ["I love Jeko!", "https://golang.org/"],  
-        ["I love Jeko!", "https://golang.org/"],
-    ["I love Jeko!", "https://golang.org/"],  
-        ["I love Jeko!", "https://golang.org/"],
-    ["I love Jeko!", "https://golang.org/"],  
-        ["I love Jeko!", "https://golang.org/"],
-    ["I love Jeko!", "https://golang.org/"],  
-        ["I love Jeko!", "https://golang.org/"],
-    ["I love Jeko!", "https://golang.org/"],  
-        ["I love Jeko!", "https://golang.org/"],
-    ["I love Jeko!", "https://golang.org/"],  
-        ["I love Jeko!", "https://golang.org/"],
-    ["I love Jeko!", "https://golang.org/"],  
-        ["I love Jeko!", "https://golang.org/"],
-    ["I love Jeko!", "https://golang.org/"],  
-        ["I love Jeko!", "https://golang.org/"],
-    ["I love Jeko!", "https://golang.org/"],  
-        ["I love Jeko!", "https://golang.org/"],
-    ["I love Jeko!", "https://golang.org/"],  
-        ["I love Jeko!", "https://golang.org/"],
-    ["I love Jeko!", "https://golang.org/"],  
-        ["I love Jeko!", "https://golang.org/"],
-    ["I love Jeko!", "https://golang.org/"],  
     ["Docker", "/post/some-activity.md"],
   ]
 
