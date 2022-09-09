@@ -1,4 +1,4 @@
-baseURL = "mysite.ekstrom.nu"
+baseURL = "ekstrom.nu"
 title = "Shell"
 # author = "Yukuro"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
@@ -82,7 +82,7 @@ Super great to meet you!
     ["Devops engineer at catena media", "https://catenamedia.com//"],
     ["Python", "https://www.example.com/"],
     ["images", "https://ekstrom.nu"],
-    ["Docker", "https://mysite.ekstrom.nu/post/some-activity2.md"],
+    ["Midjourney", "https://midjourney.ekstrom.nu/"],
   ]
 
 [module]
