@@ -80,8 +80,7 @@ Super great to meet you!
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["Devops engineer at catena media", "https://catenamedia.com//"],
-    ["Python", "https://www.example.com/"],
-    ["images", "https://ekstrom.nu"],
+    ["Github", "https://github.com/niklashim"],
     ["Midjourney", "https://midjourney.ekstrom.nu/"],
   ]
 
